@@ -2,4 +2,11 @@
 	<img alt="GoStack" src=".github/logo.svg" width="200px" />
 </h1>
 
-<img alt="Mockup" src=".github/tela.png">
+<h2 align="center">
+	<img align="center" alt="Mockup" src=".github/tela.png" width="400px">
+</h2>
+
+
+
+
+Feito com 💜 by Rocketseat 
