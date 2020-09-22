@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-	<img align="center" alt="Mockup" src=".github/tela.png" width="400px">
+	<img align="center" alt="Mockup" src=".github/tela.png" width="500px">
 </h2>
 
 
